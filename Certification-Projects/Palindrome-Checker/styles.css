@@ -1,0 +1,104 @@
+/* General styling */
+html {
+    background: #1a1a1a;
+    font-size: 1.2em;
+}
+
+body {
+    color: #FFFFFF;
+    max-width: 400px;
+    margin: 5em auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Input field */
+input {
+    border: none;
+    border-bottom: 3px solid #FFD700;
+    text-align: center;
+    font-size: 1.2em;
+    background: #333;
+    color: #FFD700;
+    max-width: 200px;
+    outline: none;
+}
+
+/* Button styling */
+button {
+    background: #FFD700;
+    color: #000;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 90px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+/* Main palindrome checking card */
+#info-card1 {
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+    background: #333;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1em;
+    box-shadow: 4px 10px 10px rgb(255, 215, 0, 0.5);
+}
+
+.palindrome {
+    background: #FFF;
+}
+
+/* Input and button container */
+#palindrome {
+    text-align: center;
+    display: flex;
+    margin: auto;
+    gap: 1em;
+    padding-bottom: 1em;
+}
+
+/* Result text */
+#result {
+    margin-bottom: 1em;
+    color: #FFD700;
+}
+
+/* Hint card styling */
+#info-card2 {
+    text-align: left;
+    color: #FFFFFF;
+    border-radius: 10px;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2em;
+    box-shadow: 4px 10px 10px rgb(255, 215, 0, 0.5);
+    padding: 1em;
+    background: #333;
+}
+
+.hint {
+    background: #0942a4;
+    margin: auto;
+}
+
+/* Hint text */
+#hint-text {
+    margin: auto;
+    padding: 1em;
+
+}
+
+/* Italicized hint keyword */
+.hint-span {
+    font-style: italic;
+    color: #FFD700;
+}

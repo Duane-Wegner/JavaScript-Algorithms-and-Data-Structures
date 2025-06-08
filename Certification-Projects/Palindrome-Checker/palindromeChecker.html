@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Metadata -->
+    <title>Palindrome Checker - DEV Duane</title>
+    <meta name="author" content="Duane">
+    <meta name="description" content="Check if a word or sentence is a palindrome using this simple web tool. Remove
+                spaces, punctuation, and verify if it reads the same forward and backward!">
+    <meta name="keywords" content="palindrome, checker, JavaScript, coding, web development, DEV Duane">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Main heading for branding -->
+    <h2>DEV Duane</h2>
+    <h1>Is it a Palindrome?</h1>
+
+    <!-- Palindrome checking section -->
+    <section id="info-card1" class="palindrome">
+        <p>Enter the text to check for a palindrome:</p>
+
+        <!-- Input field and check button container -->
+        <section id="palindrome">
+            <input id="text-input" type="text" placeholder="Enter text here">
+            <button id="check-btn">Check</button>
+        </section>
+
+        <!-- Display results -->
+        <div id="result"></div>
+    </section>
+
+    <!-- Informational hint section -->
+    <section id="info-card2" class="hint">
+        <p id="hint-text">
+            💡 A <span class="hint-span">palindrome</span> is a word or sentence that's spelled the same way both forward
+            and backward, ignoring punctuation, case, and spacing.
+        </p>
+    </section>
+
+    <!-- JavaScript file for interactivity -->
+    <script src="script.js"></script>
+</body>
+
+</html>
