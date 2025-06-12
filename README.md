@@ -35,13 +35,13 @@ The goal of this portfolio is to reinforce and apply foundational JavaScript kno
 - **Music Player**  
   *Learn Basic String and Array Methods*
 
-#### 🕐 In Progress / Not Started
-
 - **Date Formatter**  
   *Learn the Date Object*
 
 - **Football Team Cards**  
   *Learn Modern JavaScript Methods*
+
+#### 🕐 In Progress / Not Started
 
 - **Todo App**  
   *Learn localStorage*
