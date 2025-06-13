@@ -41,10 +41,10 @@ The goal of this portfolio is to reinforce and apply foundational JavaScript kno
 - **Football Team Cards**  
   *Learn Modern JavaScript Methods*
 
-#### 🕐 In Progress / Not Started
-
 - **Todo App**  
   *Learn localStorage*
+
+#### 🕐 In Progress / Not Started
 
 - **Decimal to Binary Converter**  
   *Learn Recursion*
