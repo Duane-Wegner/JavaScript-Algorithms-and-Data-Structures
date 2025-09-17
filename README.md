@@ -48,10 +48,10 @@ The goal of this portfolio is to reinforce and apply foundational JavaScript kno
 - **Todo App**  
   *Learn localStorage*
 
-#### 🕐 In Progress / Not Started
-
 - **Decimal to Binary Converter**  
   *Learn Recursion*
+
+#### 🕐 In Progress / Not Started
 
 - **Spam Filter**  
   *Learn Regular Expressions*
