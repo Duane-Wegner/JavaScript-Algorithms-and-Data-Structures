@@ -93,10 +93,11 @@ Each of the following projects is a requirement to complete the certification:
 - **Palindrome Checker**  
   A tool that checks if a given string is a palindrome.
 
-#### 🕐 In Progress / Not Started
-
 - **Roman Numeral Converter**  
   Converts integers into their Roman numeral representations.
+
+
+#### 🕐 In Progress / Not Started
 
 - **Telephone Number Validator**  
   Validates U.S. telephone numbers using regular expressions.
